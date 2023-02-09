@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpiwik_pro=self.webpackChunkpiwik_pro||[]).push([[4311],{8137:e=>{e.exports=JSON.parse('{"name":"docusaurus-theme-search-typesense","id":"default"}')}}]);
