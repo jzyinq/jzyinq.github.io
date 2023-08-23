@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: Access Control Api
+  title: Piwik PRO API
   version: auto
   description: >
     This api allows manipulating user and user group permissions for apps and
