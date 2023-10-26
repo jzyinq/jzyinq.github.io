@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpiwik_pro=self.webpackChunkpiwik_pro||[]).push([[2134],{19777:p=>{p.exports=JSON.parse('{"name":"docusaurus-plugin-redoc","id":"piwik-web-api"}')}}]);
