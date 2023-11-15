@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpiwik_pro=self.webpackChunkpiwik_pro||[]).push([[9700],{5688:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1}')}}]);
